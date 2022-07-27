@@ -1,0 +1,11 @@
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\bin\Debug\MemoryCard.exe.config
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\bin\Debug\MemoryCard.exe
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\bin\Debug\MemoryCard.pdb
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.Memory_cards.resources
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.exe
+C:\Users\hoang\OneDrive\Документы\Project\mini-game_Memory_-Card\MemoryCard\obj\Debug\MemoryCard.pdb
