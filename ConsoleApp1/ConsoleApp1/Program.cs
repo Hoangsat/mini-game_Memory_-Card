@@ -1,4 +1,8 @@
-﻿string[] s = Console.ReadLine().Split();
-int[] a = new int[s.Length];
-        for (int i = 0; i < s.Length; i++)
-      a[i] = int.Parse(s[i]);
+﻿int a, b;
+int.TryParse(Console.ReadLine(), out a);
+int.TryParse(Console.ReadLine(), out b);
+ int c, o;
+c = a / b;
+o= a % b;
+Console.WriteLine("{o} / { 1} = {2)", a, b, c);
+Console.WriteLine("{o} / { 1} = {2)", a, b, o);
